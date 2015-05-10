@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/afs/ece.cmu.edu/usr/youziw/.ssh'
+let g:netrw_dirhist_2='/afs/ece.cmu.edu/usr/youziw'
+let g:netrw_dirhist_3='/afs/ece.cmu.edu/usr/youziw/.vim/vimrc'
+let g:netrw_dirhist_4='/afs/ece.cmu.edu/class/ee240/handin/h6/youziw'
+let g:netrw_dirhist_5='/afs/ece.cmu.edu/usr/anitazha/.putty'
+let g:netrw_dirhist_6='/afs/ece.cmu.edu/usr/youziw/Private/18240/homework/hwA'

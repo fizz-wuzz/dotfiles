@@ -1,0 +1,8 @@
+"3.9 (created: 2015/02/15 15:49:05)
+
+nmap J gt
+nmap K gT
+set hintchars=hjklasdf
+source! /home/yzwu/.vimperatorrc.local
+
+" vim: set ft=vimperator:
